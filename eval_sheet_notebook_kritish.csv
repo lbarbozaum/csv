@@ -1,0 +1,298 @@
+﻿notebook,topic,method,question,problem count,
+Descriptive-statistics.ipynb,NoTheme,0,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",1,- the salary df is not created using the same values as instructed. 
+Descriptive-statistics.ipynb,Travel,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the mean and meadian are different for all variables except the last one. 
+- there is no species variable.
+- the salary df is not created using the same values as instructed. "
+Descriptive-statistics.ipynb,Travel,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the mode output doesn't match the description provided below. 
+- the salary df is not created using the same values as instructed. "
+Descriptive-statistics.ipynb,Sports,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2," - there is no species variable.
+- the salary df is not created using the same values as instructed. "
+Descriptive-statistics.ipynb,Sports,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the mode output doesn't match the description provided below. 
+- the salary df is not created using the same values as instructed. "
+Descriptive-statistics.ipynb,Games,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2," - there is no species variable.
+- the salary df is not created using the same values as instructed. "
+Descriptive-statistics.ipynb,Games,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2," - there is no species variable.
+- the salary df is not created using the same values as instructed. "
+Descriptive-statistics.ipynb,Health,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2," - there is no species variable.
+- the salary df is not created using the same values as instructed. "
+Descriptive-statistics.ipynb,Health,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the mean and meadian are different for all variables except the last one. 
+- the mode output doesn't match the description provided below. 
+- the salary df is not created using the same values as instructed. "
+KNN-regression.ipynb,NoTheme,0,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed)."
+KNN-regression.ipynb,Travel,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed).
+- the text after the scatter plot of predictions is refering to data between 10% and 20% that aren't in the plot. "
+KNN-regression.ipynb,Travel,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed).
+- the text after the scatter plot of predictions is refering to data between 10% and 20% that aren't in the plot. "
+KNN-regression.ipynb,Sports,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed)."
+KNN-regression.ipynb,Sports,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed).
+- the text after the scatter plot of predictions is refering to data between 10% and 20% that aren't in the plot. "
+KNN-regression.ipynb,Games,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed).
+- the text after the scatter plot of predictions is refering to data between 10% and 20% that aren't in the plot. "
+KNN-regression.ipynb,Games,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",4,"- the optimal K should be 25 instead of 10.
+- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed).
+- the text after the scatter plot of predictions is refering to data between 10% and 20% that aren't in the plot. "
+KNN-regression.ipynb,Health,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed).
+- the text after the scatter plot of predictions is refering to data between 10% and 20% that aren't in the plot. "
+KNN-regression.ipynb,Health,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the scatterplot of observed data doesn't show the label.
+- the scatterplot of predicted data has a duplicate label (both as observed).
+- the text after the scatter plot of predictions is refering to data between 10% and 20% that aren't in the plot. "
+Random-forests.ipynb,NoTheme,0,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the Y class (target) is slightly imbalance 63:37 with {1: 357, 0: 212).
+- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%.
+- typo after the randomForest score. an should be can."
+Random-forests.ipynb,Travel,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the Y class (Trip Success) is slightly imbalance 63:37 with {1: 357, 0: 212).
+- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%."
+Random-forests.ipynb,Travel,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%.
+- there is no 1% improvement on randomForest from baggingClassifier."
+Random-forests.ipynb,Sports,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the Y class (Game Outcome) is slightly imbalance 63:37 with {1: 357, 0: 212).
+- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%."
+Random-forests.ipynb,Sports,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%.
+- there is no 1% improvement on randomForest from baggingClassifier."
+Random-forests.ipynb,Games,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the Y class (Game_won) is slightly imbalance 63:37 with {1: 357, 0: 212).
+- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%."
+Random-forests.ipynb,Games,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%.
+- there is no 1% improvement on randomForest from baggingClassifier."
+Random-forests.ipynb,Health,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the Y class (diagnosis result) is slightly imbalance 63:37 with {1: 357, 0: 212).
+- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%."
+Random-forests.ipynb,Health,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the Y class (Presence of Chronic Disease) is imbalance with 65:35 with { 0: 370, 1: 199}. 
+- the max_samples parameter for BaggingClassifier is set to .3 while the Note says to use 50%.
+- there is no 1% improvement on randomForest from baggingClassifier."
+Regression-trees.ipynb,NoTheme,0,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",0,
+Regression-trees.ipynb,Travel,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",1,- the text after log transformation is referring to salary in dollars while it should be travel budget.
+Regression-trees.ipynb,Travel,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the text is referring to NaN on the first row but there is no NaN in the dataframe.
+- the second variable and the seventh variable in the dataframe are not normally distributed (or follows bell curve) but the text says both are reasonable.
+- the text after log transformation is referring to salary in dollars while it should be annual travel budget."
+Regression-trees.ipynb,Sports,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",0,
+Regression-trees.ipynb,Sports,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",2,"- the text is referring to NaN on the first row but there is no NaN in the dataframe.
+- the second variable and the seventh variable in the dataframe are not normally distributed (does not follows bell curve) but the text says both are reasonable."
+Regression-trees.ipynb,Games,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",1,- the text after log transformation is referring to salary in dollars while it should be contract value.
+Regression-trees.ipynb,Games,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the text is referring to NaN on the first row but there is no NaN in the dataframe.
+- the second variable and the seventh variable in the dataframe are not normally distributed (does not follows bell curve) but the text says both are reasonable.
+- the text after log transformation is referring to salary in dollars while it should be InGamePurchaseAmount."
+Regression-trees.ipynb,Health,1,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",1,- the text after log transformation is referring to salary in dollars while it should be HealthcareExpenses.
+Regression-trees.ipynb,Health,2,"Count the number of ""problems"" in the notebook.
+Examples:
+- spaghetti plots
+- bar plot with a variable that appears to be missing/zero, but is actually just very small
+- class that has only 1 level instead of at least 2
+- text referring to NA that aren't there
+- text referring to linear/nonlinear patterns in plots that aren't there",3,"- the text is referring to NaN on the first row but there is no NaN in the dataframe.
+- the second variable and the seventh variable in the dataframe are not normally distributed (does not follows bell curve) but the text says both are reasonable.
+- the text after log transformation is referring to salary in dollars while it should be AnnualHealthSpending."
